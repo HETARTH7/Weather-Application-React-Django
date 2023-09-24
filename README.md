@@ -1,3 +1,7 @@
+# Weather Application
+
+This is a Full Stack Weather App built using React.js and Django frameworks to display real-time location of any city
+
 # Usage
 
 ## Frontend
